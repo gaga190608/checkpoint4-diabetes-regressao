@@ -1,0 +1,18 @@
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Cache do Streamlit
+.streamlit/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
